@@ -78,3 +78,13 @@ div {
 .hide {
 	display: none;
 }
+
+.total {
+	display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.total span {
+	min-width: 450px;
+}
